@@ -110,6 +110,12 @@ p{
   }
 }
 
+#language > li {
+  color: blue;
+  font-size: 10px;
+  
+}
+
 /*Time duration spent working at the job*/
 .workTime{
     font-size: x-small;
